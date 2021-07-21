@@ -5,6 +5,15 @@
     --white-color: #dff3e4;
 }
 
+.odd{
+    font-weight: 100;
+}
+
+.even{
+    font-weight: bold;
+    font-size: large;
+}
+
 
 body{
     color: var(--dark-color);
@@ -64,4 +73,8 @@ pre[class="language-"]  {
 
 main>.container {
     padding: 60px 15px 0;
+}
+
+.logoFont{
+    font-family: 'Racing Sans One', cursive;
 }
